@@ -1,0 +1,16 @@
+{
+  "equipes": [
+    {
+      "name": "Red",
+      "robos": {
+        "Rover": "SimpleController"
+      }
+    },
+    {
+      "name": "Blue",
+      "robos": {
+        "Marshall": "SimpleController"
+      }
+    }
+  ]
+}

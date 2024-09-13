@@ -1,0 +1,206 @@
+{
+  "height": 5,
+  "width": 5,
+  "cells": [
+    {
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "concentrationH3": 0.7,
+      "roughness": 0.2
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 0
+      },
+      "concentrationH3": 0.7,
+      "roughness": 0.1
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": 0
+      },
+      "concentrationH3": 0.5,
+      "roughness": 0.0
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 0
+      },
+      "concentrationH3": 0.5,
+      "roughness": 0.5
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 0
+      },
+      "concentrationH3": 0.9,
+      "roughness": 0.3
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "concentrationH3": 0.6,
+      "roughness": 0.1
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 1
+      },
+      "concentrationH3": 0.7,
+      "roughness": 0.4
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": 1
+      },
+      "concentrationH3": 0.7,
+      "roughness": 0.2
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 1
+      },
+      "concentrationH3": 0.9,
+      "roughness": 0.2
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 1
+      },
+      "concentrationH3": 0.7,
+      "roughness": 0.2
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 2
+      },
+      "concentrationH3": 0.9,
+      "roughness": 0.3
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 2
+      },
+      "concentrationH3": 0.5,
+      "roughness": 0.3
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": 2
+      },
+      "concentrationH3": 0.8,
+      "roughness": 0.5
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 2
+      },
+      "concentrationH3": 0.8,
+      "roughness": 0.5
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 2
+      },
+      "concentrationH3": 0.5,
+      "roughness": 0.2
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 3
+      },
+      "concentrationH3": 1.0,
+      "roughness": 0.0
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 3
+      },
+      "concentrationH3": 0.9,
+      "roughness": 0.0
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": 3
+      },
+      "concentrationH3": 0.6,
+      "roughness": 0.5
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 3
+      },
+      "concentrationH3": 0.9,
+      "roughness": 0.3
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 3
+      },
+      "concentrationH3": 0.6,
+      "roughness": 0.0
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 4
+      },
+      "concentrationH3": 0.8,
+      "roughness": 0.5
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 4
+      },
+      "concentrationH3": 1.0,
+      "roughness": 0.2
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": 4
+      },
+      "concentrationH3": 0.8,
+      "roughness": 0.1
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 4
+      },
+      "concentrationH3": 0.6,
+      "roughness": 0.2
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 4
+      },
+      "concentrationH3": 0.9,
+      "roughness": 0.3
+    }
+  ]
+}
